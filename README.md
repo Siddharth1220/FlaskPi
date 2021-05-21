@@ -1,11 +1,11 @@
-#Control Raspberry Pi LED with Webpage  Using Python and Flask
+Control Raspberry Pi LED with Webpage  Using Python and Flask
 
 
 
 
-###To Run in Your Raspberry Pi 
+To Run in Your Raspberry Pi 
 
-##Follow the commandments in raspberry pi cmd
+Follow the commandments in raspberry pi cmd
 
 
 1 --
