@@ -1,8 +1,12 @@
 #Control Raspberry Pi LED with Webpage  Using Python and Flask
 
-#To Run in Your Raspberry Pi 
 
-#Follow the commandments in raspberry pi cmd
+
+
+###To Run in Your Raspberry Pi 
+
+##Follow the commandments in raspberry pi cmd
+
 
 1 --
   sudo apt-get update
@@ -32,7 +36,8 @@
 
 
  
-# To Browse The Webpage You Can Use IPv4 And IPv6 Or using Port Forwarding 
 
-# to get Raspberry Pi Local Ip Address Use This Commad line
+### To Browse The Webpage You Can Use IPv4 And IPv6 Or using Port Forwarding 
+
+### to get Raspberry Pi Local Ip Address Use This Commad line
   --  ifconfig
