@@ -20,3 +20,19 @@
   sudo apt-get install git
   
 6--
+  git clone https://github.com/Tony-Vaniya/flaskRpi.git
+  
+7--
+  cd flaskRpi
+  
+8--
+  sudo python3 main.py
+  
+
+
+
+ 
+# To Browse The Webpage You Can Use IPv4 And IPv6 Or using Port Forwarding 
+
+# to get Raspberry Pi Local Ip Address Use This Commad line
+  --  ifconfig
