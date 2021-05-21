@@ -20,7 +20,7 @@ def on():
 @app.route('/off')
 def off():
     print ('OFF')
-    GPIO.output(14,GPIO.HIGH)
+    GPIO.output(14,GPIO.LOW)
     return render_template('on.html')
     
 
