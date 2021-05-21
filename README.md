@@ -27,7 +27,7 @@ Follow the commandments in raspberry pi cmd
   git clone https://github.com/Tony-Vaniya/FlaskPi.git
   
 7--
-  cd flaskRpi
+  cd FlaskPi
   
 8--
   sudo python3 main.py
