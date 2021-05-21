@@ -24,7 +24,7 @@ Follow the commandments in raspberry pi cmd
   sudo apt-get install git
   
 6--
-  git clone https://github.com/Tony-Vaniya/flaskRpi.git
+  git clone https://github.com/Tony-Vaniya/FlaskPi.git
   
 7--
   cd flaskRpi
