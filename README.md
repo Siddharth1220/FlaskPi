@@ -36,8 +36,15 @@ Follow the commandments in raspberry pi cmd
 
 
  
+#Start On Boot
+##Follow The Command In cmd
 
-### To Browse The Webpage You Can Use IPv4 And IPv6 Or using Port Forwarding 
-
-### to get Raspberry Pi Local Ip Address Use This Commad line
-  --  ifconfig
+1 --
+   sudo nano /etc/profile
+   
+   
+   ####In Last Add Line
+   
+      sudo python3 /home/pi/FlaskPi/main.py
+    
+   
